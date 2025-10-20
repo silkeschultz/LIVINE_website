@@ -39,7 +39,7 @@ Beslutte hvordan i vil navngive filer og mapper for at sikre en ensartet struktu
 - Hvordan fordeler I arbejdet, så I undgår at flere arbejder i de samme filer samtidigt?
   - Vi kommunikere undervejs og kan se på github, hvem der arbejder med hvad ift. branchnavnene
 - Hvordan sikrer I, at commit-beskeder er beskrivende?
-  -
+  - Vi skriver korte men besrkivende beskeder som indholder de væsentligste ting som er blevet tilføjet
 - Hvordan kommunikerer i om ændringer i main branchen når feature merges?
   - Vi afstemmer om vi alle er tilfredse med arbejdet, før det bliver merched ind i main, så vi ved hvad der bliver tilføjet
 
@@ -58,6 +58,7 @@ Dette afsnit skal forklare hvad I konkret har arbejde med, for at udvikle websit
 - Hentning af produkter fra API.
 - Filtrering af produkter baseret på brugerens valg.
 - Dynamisk visning af produkter i HTML.
+- Valg af kategori
 
 Brug korte beskrivelser, som i eksemplerne herover
 
@@ -65,7 +66,11 @@ Brug korte beskrivelser, som i eksemplerne herover
 
 Dette afsnit skal liste de endpoints fra API'et i har benyttet:
 
-- (fx. https://dummyjson.com/products)
+- https://dummyjson.com/products
+- https://dummyjson.com/products/categories
+- https://dummyjson.com/products/category/furniture
+- https://dummyjson.com/products/category/home-decoration
+- https://dummyjson.com/products/category/kitchen-accessories
 
 # Dokumentation af Funktion
 
