@@ -1,4 +1,4 @@
-# LIVINE_website...
+# LIVINE_website
 
 # Teknisk dokumentation for Tema 8 gruppeprojekt
 
